@@ -104,16 +104,6 @@ The **Patient Data Management System** demonstrates a robust and secure method f
 - [Truffle Documentation](https://trufflesuite.com/truffle/)  
 - Ethereum: [https://ethereum.org](https://ethereum.org)  
 
----
-
-### 9. **Appendices**
-
-#### UML Diagram: System Architecture  
-*(Include a diagram showing the interaction between patients, doctors, admin, and the blockchain.)*
-
-#### Sequence Diagram: Patient Record Access  
-*(Illustrate the flow from patient authorization to record addition by a doctor.)*
-
 #### Deployment Instructions  
 1. Start Ganache with `ganache-cli`.  
 2. Compile and deploy contracts using Truffle: `truffle compile && truffle migrate`.  
