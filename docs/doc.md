@@ -33,8 +33,7 @@ The application leverages **Ethereum** for smart contract deployment and executi
 - **Purpose**: To govern the registration, verification, and access control of medical data.  
 - **Functionalities**:  
   - Patient registration.  
-  - Doctor registration and verification.  
-  - Authorization of doctors by patients.  
+  - Doctor registration and verification.
   - Addition of medical records by authorized doctors.  
   - Retrieval of patient records.  
 
@@ -54,7 +53,6 @@ The application leverages **Ethereum** for smart contract deployment and executi
 
 #### Real-world Relevance:  
 This system addresses the need for secure, transparent, and decentralized management of medical records. It ensures data privacy, allows role-based access, and eliminates intermediaries.  
-- **For Patients**: Full control over who accesses their data.  
 - **For Doctors**: Verifiable identity and access to accurate patient information.  
 - **For Admins**: Centralized management of system roles and trust establishment.  
 
